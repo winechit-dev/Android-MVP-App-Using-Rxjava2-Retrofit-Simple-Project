@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Android MVP App in Kotlin using Rxjava2, Dagger2 ,Retrofit'

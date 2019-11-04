@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android MVP App in Kotlin using Rxjava2, Dagger2 ,Retrofit</string>
+    <string name="loading">Loading...</string>
+</resources>
